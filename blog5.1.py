@@ -3,6 +3,7 @@ from pathlib import Path
 import base64
 import re
 import os
+import streamlit_antd_components as sac
 
 setsituasi1 = 0
 
@@ -31,6 +32,29 @@ def markdown_insert_images(markdown):
             markdown = markdown.replace(image_markdown, img_to_html(image_path, image_alt))
     return markdown
 
+def build_tree_structure(base_path):
+    def add_folder_to_tree(path):
+        folder_name = os.path.basename(path)
+        children = []
+        for entry in os.listdir(path):
+            full_path = os.path.join(path, entry)
+            if os.path.isdir(full_path):
+                children.append(add_folder_to_tree(full_path))
+            elif entry.endswith('.md'):
+                # Tambahkan file Markdown sebagai node
+                children.append(sac.TreeItem(entry, icon="dash"))
+        return sac.TreeItem(folder_name, children=children)
+    
+    base_dir = os.path.join(base_path, 'Notebooks')
+    
+    tree_items = []
+    for folder_name in os.listdir(base_dir):
+        full_path = os.path.join(base_dir, folder_name)
+        if os.path.isdir(full_path):
+            tree_items.append(add_folder_to_tree(full_path))
+    
+    return tree_items
+
 def read_markdown_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
@@ -41,68 +65,43 @@ def display_article(article):
     with st.container():
         st.markdown(markdown_insert_images(read_markdown_file(article['content'])), unsafe_allow_html=True)
 
-def listdirektori(dirpath):
-    listing = []
-    for root, dirs, files in os.walk(f"NOTEBOOKS/{dirpath}"):
-        for file in files:
-            listing.append(os.path.join(root, file))
-    return listing
+def find_file(nama_file):
+    for root, dirs, files in os.walk("NOTEBOOKS"):
+        if nama_file in files:
+            return os.path.join(root, nama_file)
 
-def contents(dirdisiplin, indexdisiplin):
-    for item in listdirektori(dirdisiplin):
-        judul, _ = os.path.splitext(os.path.basename(item))
-        indexdisiplin.append({"title": judul, "content": item})
-
-indexmatematika = []
-indexfisika = []
-indexkimia = []
-indexbiologi = []
-
-if setsituasi1 == 0:
-    contents("FISIKA", indexfisika)
-    contents("MATEMATIKA", indexmatematika)
-    contents("KIMIA", indexkimia)
-    contents("BIOLOGI", indexbiologi)
 
 def main():
-    article_titles_matematika = [article['title'] for article in indexmatematika]
-    article_titles_fisika = [article['title'] for article in indexfisika]
-    article_titles_kimia = [article['title'] for article in indexkimia]
-    article_titles_biologi = [article['title'] for article in indexbiologi]
-
     with st.sidebar:
         st.title("⚛ sinausains")
         st.markdown("## ilmu alam dan turunanya")
 
-    disiplin_pilihan = st.sidebar.selectbox("disiplin", ["Matematika", "Fisika", "Kimia", "Biologi"])
+        selected = sac.tree(items=build_tree_structure("."), 
+                        label='Notebooks', 
+                        index=0, 
+                        align='left', 
+                        size='md',
+                        icon='box', 
+                        open_all=True, 
+                        checkbox=False, 
+                        key="selectedhierarki")
 
-    if disiplin_pilihan == "Matematika":
-        artikel_pilihan = st.sidebar.selectbox("konten", article_titles_matematika)
-        selected_article_index = next((index for index, article in enumerate(indexmatematika) if article['title'] == artikel_pilihan), None)
-    elif disiplin_pilihan == "Fisika":
-        artikel_pilihan = st.sidebar.selectbox("konten", article_titles_fisika)
-        selected_article_index = next((index for index, article in enumerate(indexfisika) if article['title'] == artikel_pilihan), None)
-    elif disiplin_pilihan == "Kimia":
-        artikel_pilihan = st.sidebar.selectbox("konten", article_titles_kimia)
-        selected_article_index = next((index for index, article in enumerate(indexkimia) if article['title'] == artikel_pilihan), None)
-    elif disiplin_pilihan == "Biologi":
-        artikel_pilihan = st.sidebar.selectbox("konten", article_titles_biologi)
-        selected_article_index = next((index for index, article in enumerate(indexbiologi) if article['title'] == artikel_pilihan), None)
-    else:
-        selected_article_index = None
-            
-    if selected_article_index is not None:
-        disiplin_articles = {
-            "Matematika": indexmatematika,
-            "Fisika": indexfisika,
-            "Kimia": indexkimia,
-            "Biologi": indexbiologi
-        }
 
-        selected_article = disiplin_articles[disiplin_pilihan][selected_article_index]
-        display_article(selected_article)
+    filemd = st.session_state['selectedhierarki']
+    if '.md' in filemd:
+        titlemd = filemd.removesuffix('.md')
 
-    print(artikel_pilihan)
+
+        file = find_file(filemd)
+        dictfrmt = {'title': titlemd,
+                    'content': file}
+        
+        # dictfrmt = {'title': 'Antioksidan', 
+        #             'content': 'NOTEBOOKS/KIMIA\\Antioksidan.md'}
+        print(file)
+
+        display_article(dictfrmt)
+        #{'title': 'Antioksidan', 'content': 'NOTEBOOKS/KIMIA\\Antioksidan.md'}
 
 
 if __name__ == "__main__":
