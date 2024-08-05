@@ -45,7 +45,7 @@ def build_tree_structure(base_path):
                 children.append(sac.TreeItem(entry, icon="dash"))
         return sac.TreeItem(folder_name, children=children)
     
-    base_dir = os.path.join(base_path, 'Notebooks')
+    base_dir = os.path.join(base_path, 'NOTEBOOKS')
     
     tree_items = []
     for folder_name in os.listdir(base_dir):
