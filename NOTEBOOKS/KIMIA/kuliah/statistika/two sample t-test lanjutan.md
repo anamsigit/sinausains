@@ -1,0 +1,1 @@
+t-test dua sample adalah menguji apakah sampel lebih besar atau lebih kecil dari rentang nilai. digunakan dalam pengujian  signifikansi statistik secara. Jika sampel yang diuji jatuh ke salah satu area kritis maka H0 diterima. 

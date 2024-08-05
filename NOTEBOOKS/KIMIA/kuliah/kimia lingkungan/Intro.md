@@ -1,0 +1,1 @@
+sedikit menskip kuliah

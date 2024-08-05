@@ -1,0 +1,1 @@
+Most algorithms use a convolutional neural network (CNN) to extract features from the image to predict the probability of learned classes. researchers and companies published their models as YOLO versions. A popular example is YOLOv5 which was created by the company Ultralytics

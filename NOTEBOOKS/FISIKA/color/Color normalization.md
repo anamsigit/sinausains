@@ -1,0 +1,1 @@
+proses pengolahan citra atau video untuk memastikan bahwa nilai intensitas warna di seluruh gambar memiliki rentang yang seragam.

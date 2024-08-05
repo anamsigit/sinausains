@@ -1,0 +1,1 @@
+Thunderbolt dikembangkan oleh intel dan apple dan tidak sama dengan usb-type c. 

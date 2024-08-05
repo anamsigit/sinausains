@@ -1,0 +1,1 @@
+alasan modul ketika tidak bekerja (tidak mendektesi jarak) menghasilkan print output yang lama adalah karena modul tersebut menunggu pada waktu maksimal untuk dapat menerima singal yang cocok dengan enskripsinya. [*](https://youtu.be/njDQKdZzGMI)

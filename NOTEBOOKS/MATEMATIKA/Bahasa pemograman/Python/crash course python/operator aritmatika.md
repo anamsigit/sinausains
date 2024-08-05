@@ -1,0 +1,1 @@
+print( 8 // 2) # // adalah operator floor division atau pembagian dengan pembulatan ke bawah

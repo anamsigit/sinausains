@@ -1,0 +1,3 @@
+Energi ikat nuklir dalam fisika eksperimental adalah energi minimum yang diperlukan untuk membongkar inti atom menjadi proton dan neutron penyusunnya. Energi ikat untuk inti yang stabil selalu bilangan positif, karena inti harus mendapatkan energi agar nukleon dapat bergerak menjauh satu sama lain. Nukleon tertarik satu sama lain oleh gaya nuklir kuat.
+
+E = mc 2 , di mana E adalah energi ikat inti, c adalah kecepatan cahaya, dan m adalah perbedaan massa. 'Massa yang hilang' ini dikenal sebagai defek massa, dan mewakili energi yang dilepaskan saat nukleus terbentuk

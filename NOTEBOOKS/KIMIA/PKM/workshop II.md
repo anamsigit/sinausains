@@ -1,0 +1,1 @@
+ngeyel dengan ilmiah. misalnya dicounter dengan beberapa journal ilmiah.

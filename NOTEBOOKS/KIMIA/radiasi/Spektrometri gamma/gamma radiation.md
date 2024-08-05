@@ -1,0 +1,1 @@
+setiap zat radioaktif memiliki energi radiasi yang berbeda-beda dan setiap unsur sendiri bisa memiliki banyak energi sekaligus. radiasi gamma dipancarkan bersamaan ketika ada pancaran partikel beta dan alpha, tetapi beberapa unsur adanya kecenderungan untuk dominan memancarkan radiasi gamma dari pada radiasi alpha atau beta. 

@@ -1,0 +1,1 @@
+Android IDE menggunakan python atau kivy, dan mungkin bisa digabungkan dengan pyton dengan library tertentu. android studio adalah IDE resmi untuk pengembangan aplikasi android, sehingga tidak jarang kalau IDE ini sering perlu diinstal walaupun secara langsung tidak digunakan, ini diperlukan untuk proses kompiler. seperti SDK, NDK

@@ -1,0 +1,3 @@
+Di Indonesia, pada pemerintahan susilo bambang yudhoyono indonesia menghasilkan emisi gas rumah kaca sebanyak 849,96 juta ton CO2 (2014). kemudian memuncak pada era pemerintahan presiden selanjutnya yaitu jokowi dodo sebesar 2,37 miliar ton CO2 (2015). 
+
+setelah itu sempat menurun setelah enandatangi perjanjian paris. Target NGC (National Determination Contribution) Indonesia ditargetkan mampu mengurangi emisi gas rumah kaca sebesar 29% secara mandiri atau 41% apabila dibantu pihak internasional. 

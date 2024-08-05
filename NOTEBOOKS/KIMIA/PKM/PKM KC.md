@@ -1,0 +1,2 @@
+- Memberikan peluang bagi mahasiswa untuk merealisasikan ide kreatif produk yang diharapkan menjadi cikal bakal kemunculan produk usaha di Indonesia sebagai karya mandiri bangsa
+- Ide didasari kebutuhan dan peluang pasar, mengutamakan solusi tantangan intelektual, merupakan perwujudan penguasaan IPTEK oleh tim mahasiswa

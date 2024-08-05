@@ -1,0 +1,3 @@
+bisa dilihat di youtube berikut [*](https://youtu.be/XpLCK88nVgU) detektor elektromagnetik itu dikehidupan adalah contohnya remote tv, mereka menggunakan sinar IR dimana remote dapat memancar sinar IR ke detektor tv dengan pola atau pattern yang telah ditentukan,
+
+dikatan sinar adalah ketika gelombang tersebut tidak terdistract oleh medium, misalnya sinar gamma, sehingga arah gelombangnya luruh kedepan. sedangkan dikatan gelombang ketika gelombangnya terdistract oleh medium, misalnya gelombang suara yang gelombangnya mengalami berbagai interaksi dengan medium sekitar, sehingga menyebar dalam medium. 

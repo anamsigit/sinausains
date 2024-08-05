@@ -1,0 +1,1 @@
+ikatan hideogen, ikatan hidrofobik, jarak ikatan, energi bebas, nilai afinitas, RMSD

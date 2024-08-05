@@ -1,0 +1,1 @@
+Laporan meliputi tugas secara umum dan secara spesifik yaitu validasi metode spektroskopi gamma. 

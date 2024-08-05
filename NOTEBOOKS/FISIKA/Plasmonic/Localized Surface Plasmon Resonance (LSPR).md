@@ -1,0 +1,1 @@
+Resonansi Plasmon Permukaan Lokal (LSPR) adalah fenomena optik yang terjadi ketika elektron bebas berosilasi pada antarmuka antara logam dan bahan dielektrik. Osilasi ini disebabkan oleh cahaya dengan panjang gelombang tertentu. 

@@ -1,0 +1,1 @@
+you'll be using an application called Qwiklabs. Qwiklabs lets you interact with a computer running an operating system that might not be the one running on your machine. The Qwiklabs scenarios will allow you to solve some real-world problems, putting your knowledge to work through active learning exercises.

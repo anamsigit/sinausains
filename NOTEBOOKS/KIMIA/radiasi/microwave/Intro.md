@@ -1,0 +1,1 @@
+Technically speaking, 5G radiation is the same as microwave radiation. Microwaves have a frequency between 3GHz to 30GHz; the same range of frequencies used by 5G technology

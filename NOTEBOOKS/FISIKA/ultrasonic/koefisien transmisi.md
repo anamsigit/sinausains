@@ -1,0 +1,1 @@
+transmisi, berarti meneruskan gelombang. 

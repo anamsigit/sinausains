@@ -1,0 +1,1 @@
+secara teori, power yang tersedia untuk pemanen energi radio frekuensi adalah 7.0μW dan 1.0μW untuk  2.4GHz dan frekuensi 900MHz dalam rentang 40 meter

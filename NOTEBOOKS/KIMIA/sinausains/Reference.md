@@ -1,0 +1,1 @@
+Potensi Lennard-Jones: https://bcs.whfreeman.com/WebPub/Chemistry/chemicalprinciples7e/living_graphs/intermolecular_potential_energy/intermolecular_potential_energy.html 

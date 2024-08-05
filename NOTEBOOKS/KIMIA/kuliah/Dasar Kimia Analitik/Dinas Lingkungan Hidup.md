@@ -1,0 +1,1 @@
+Dinas lingkungan hidup mewakili provinsi sedangkan kantor lingkungan hidup mewakili kabupaten

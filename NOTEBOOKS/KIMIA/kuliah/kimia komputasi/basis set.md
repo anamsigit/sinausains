@@ -1,0 +1,1 @@
+ "basis set" merujuk pada kumpulan fungsi matematika yang digunakan untuk menggambarkan orbitale atomik dalam metode perhitungan ab initio atau semi-empiris. Basis set ini memberikan representasi matematis dari fungsi gelombang elektron yang menggambarkan tingkat energi elektron dalam suatu molekul.

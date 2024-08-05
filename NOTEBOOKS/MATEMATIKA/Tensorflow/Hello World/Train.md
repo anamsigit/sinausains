@@ -1,0 +1,1 @@
+Jika memang model anda tidak tepat, mau berapapun anda training, akurasi tidak akan bisa mencapai nilai yang diinginkan. diukur dievaluasi berdasarkan data validasi.

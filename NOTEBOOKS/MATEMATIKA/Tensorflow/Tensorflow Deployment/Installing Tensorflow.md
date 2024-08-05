@@ -1,0 +1,3 @@
+![6bba0fdaa8ada236f0435ba872ebbbfc.png](../../../../_resources/6bba0fdaa8ada236f0435ba872ebbbfc.png)
+
+'Hello world' TF, visit link [*](https://github.com/https-deeplearning-ai/tensorflow-2-public/blob/main/C4_Advanced-deployment/W1/ungraded_labs/C4_W1_Lab_1_tfserving_hello_world.ipynb) or [*](https://github.com/https-deeplearning-ai/tensorflow-2-public/blob/main/C4_Advanced-deployment/W1/ungraded_labs/C4_W1_Lab_1_tfserving_hello_world.ipynb)

@@ -1,0 +1,1 @@
+PALM OIL main component. Palmitic acid is a fatty acid with a 16-carbon chain. Its chemical formula is CH 3(CH 2) 14COOH. Palmitic acid is also known as hexadecanoic acid.

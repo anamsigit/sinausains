@@ -1,0 +1,2 @@
+1. Spektrum 2 suara alat musik berbeda pada nada yang sama, validasi kemiripan sintesis audio dengan suara rekaman. akan berbeda antara an dan bn (atau Cn) setiap alat musik yang berbeda dengan nada yang sama. - memahami "warna bunyi". 
+2. memperbaiki suara dan memanipulasi an dan bn. boleh menambahkan efek redaman

@@ -1,0 +1,3 @@
+lamda layer adalah layer khusus dalam jaringan saraf tiruan yang disediakan oleh tensorflow. layer tersebut berguna untuk membuat kostomisasi operasi matematika sendiri. 
+
+Penggunaan lambda layer memungkinkan fleksibilitas yang lebih besar dalam membangun arsitektur jaringan saraf, terutama ketika membutuhkan operasi khusus yang tidak tersedia secara langsung melalui layer-layer standar yang disediakan oleh kerangka kerja machine learning.

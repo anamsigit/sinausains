@@ -1,0 +1,1 @@
+dilakukan pengukuran kuantitatif untuk mengukur apakah program anda berhasil atau tidak. 

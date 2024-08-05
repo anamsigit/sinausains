@@ -1,0 +1,1 @@
+Seorang Machine Learning Developer, atau disebut sebagai pengembang pemelajaran mesin, adalah pakar dalam menggunakan data untuk membuat model pelatihan. Model-model tersebut kemudian digunakan untuk mengotomatisasi proses seperti klasifikasi gambar, pengenalan suara, dan perkiraan pasar. 

@@ -1,0 +1,1 @@
+Bayes error is the lowest possible prediction error that can be achieved and is the same as irreducible error. If one would know exactly what process generates the data, then errors will still be made if the process is random. This is also what is meant by "y is inherently stochastic".

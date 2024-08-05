@@ -1,0 +1,1 @@
+saat tulisan ini dibuat, mikrokontroller tercepat dipegang oleh teensy, anda dapat menggunakan arduino IDE untuk mengakses teensy. dengan mengikuti tutorial berikut [*](https://www.pjrc.com/teensy/td_download.html) pada command line section. 
