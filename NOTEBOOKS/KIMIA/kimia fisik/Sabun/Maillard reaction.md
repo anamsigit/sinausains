@@ -1,2 +1,0 @@
-reaksi yang umum terjadi ketika proses pemasakan dimana protein dan gula dalam teperature yang semakin naik membentuk senyawa-senyawa komplek bersama-sama. 
-![73dfba114d69339ad9c22d7aaddd173f.png](../../../../_resources/73dfba114d69339ad9c22d7aaddd173f.png)

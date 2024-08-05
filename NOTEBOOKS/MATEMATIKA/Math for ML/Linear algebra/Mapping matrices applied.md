@@ -1,1 +1,0 @@
-Recognising mapping matrices and applying these to data. 

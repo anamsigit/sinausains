@@ -1,1 +1,0 @@
-refleksi, berarti memantulkan gelombang. 

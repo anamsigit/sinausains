@@ -1,1 +1,0 @@
-ditampilkan perbedaan antara yang belum dikoreksi dengan yang dikoreksi di classroom. 

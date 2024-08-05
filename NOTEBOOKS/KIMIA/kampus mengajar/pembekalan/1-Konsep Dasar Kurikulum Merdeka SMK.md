@@ -1,6 +1,0 @@
-Kemendikbudristek memberikan enam dukungan untuk membantu satuan pendidikan dalam mengimplementasikan kurikulum merdeka
-1. platform merdeka mengajar, menyediakan beragam topik pelatihan tentang kurikulum merdeka hingga berbagai referensi perangkat ajar serta sumber belajar lainya yang bisa diakses secara mandiri atau kelompok
-2. seri webinar (dari pusat dan daerah), kemendikbud dan unit pelaksana teknis di daerah menyelenggarakan seri webinar implementasi kurikulum merdeka untuk berbagi praktik baik maupun informasi terkini bagi guru, kepala satuan dan unsur pemangku pendidikan
-3. pusat pelayanan bantuan (helpdesk), dapat menyampaikan pertanyaan yaitu 081281435091
-4. narasumber berbagai praktik baik (rekomendasi dari pusat), narasumber berasal dari pendidik yang telah mengimplementasikan kurikulum merdeka dan telah diseleksi. narasumber berbagai praktik baik dapat dihubungi melalui platform merdeka mengajar
-5. mitra pembangunan, organisasi/lembaga/Duniausaha/Duniaindustri yang secara mandiri dan sukarela mendukung proses belajar komunitas di tingkat daerah dan atau tingkat satuan pendidikan

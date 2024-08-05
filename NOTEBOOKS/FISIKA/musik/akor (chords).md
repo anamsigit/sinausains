@@ -1,1 +1,0 @@
-Akor adalah kumpulan tiga nada (tone) atau lebih yang bila dimainkan secara bersamaan terdengar harmonis.

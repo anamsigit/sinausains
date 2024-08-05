@@ -1,8 +1,0 @@
-##### Contoh 1: Pergerakan benda yang jatuh bebas
-Ketika benda jatuh bebas di bumi, kita dapat menggunakan turunan untuk menghitung kecepatan dan posisi benda seiring waktu. Misalnya, jika sebuah bola dilemparkan dari ketinggian tertentu dengan kecepatan awal tertentu, maka kita dapat menggunakan turunan untuk menghitung kecepatan dan posisi bola pada setiap saat selama jatuh. Dalam kasus ini, turunan posisi bola terhadap waktu memberikan kecepatan bola, sedangkan turunan kecepatan terhadap waktu memberikan percepatan bola.
-
-##### Contoh 2: Menghitung keuntungan usaha
-Dalam dunia bisnis, kita dapat menggunakan turunan untuk menghitung keuntungan suatu usaha pada setiap tingkat produksi. Misalnya, jika sebuah perusahaan menjual produk dengan harga tertentu dan biaya produksi yang bervariasi tergantung pada tingkat produksi, maka kita dapat menggunakan turunan untuk mencari tingkat produksi yang menghasilkan keuntungan maksimum. Dalam kasus ini, turunan biaya produksi terhadap tingkat produksi memberikan biaya marginal, sedangkan turunan pendapatan terhadap tingkat produksi memberikan pendapatan marginal. Keuntungan maksimum diperoleh ketika pendapatan marginal sama dengan biaya marginal.
-
-##### Contoh 3: Mencari volume tabung
-Dalam geometri, kita dapat menggunakan turunan untuk mencari volume tabung ketika diketahui luas permukaan dan tinggi tabung. Luas permukaan tabung dapat dinyatakan sebagai 2πr^2 + 2πrh, di mana r adalah jari-jari lingkaran dan h adalah tinggi tabung. Jika kita ingin mencari volume tabung, maka kita dapat menggunakan turunan pada luas permukaan tabung terhadap tinggi tabung untuk mencari rumus turunan, yaitu πr^2 + πrh. Rumus ini dapat digunakan untuk menghitung volume tabung pada setiap tinggi tabung yang diinginkan.

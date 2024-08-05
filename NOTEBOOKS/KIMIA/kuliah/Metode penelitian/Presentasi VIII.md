@@ -1,2 +1,0 @@
-![585d361d6d582446e1cb5d6daa39fe39.png](../../../../_resources/585d361d6d582446e1cb5d6daa39fe39.png)
-dijelaskan adsorpsi itu diukur dari apa seperti itu. supaya nyambung. dijelaskan di identifikasi dan batasan masalah. 

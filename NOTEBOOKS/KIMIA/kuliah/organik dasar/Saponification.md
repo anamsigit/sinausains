@@ -1,2 +1,0 @@
-![683b0556c9226c9d00ffa5a020c6d29a.png](../../../../_resources/683b0556c9226c9d00ffa5a020c6d29a.png)
-Fat dapat berupa triacylgliserol atau dikenal dengan trigliserol. apabila ditambah NaOH hasilnya berupa sabun padat, apabila ditambah dengan KOH hasilnya berupa sabun cair. 

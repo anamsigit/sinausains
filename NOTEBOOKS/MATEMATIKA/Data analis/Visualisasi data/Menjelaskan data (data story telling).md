@@ -1,3 +1,0 @@
-## Explanatory and Exploratory
-Dalam presentasi atau penyampaian hasil visualisasi, Anda harus dapat membedakan cara penyampaian antara exploratory analysis atau explanatory analysis. Exploratory berasal dari kata explore yang berarti jelajahi, sehingga exploratory analysis adalah proses penyampaian di mana Anda membimbing dan memandu audiens dalam melihat (menjelajahi) data yang telah dikumpulkan. Sedangkan explanatory berasal dari explain yang berarti menjelaskan, sehingga explanatory analysis adalah proses penyampaian di mana Anda tidak meminta audiens untuk menjelajahi data namun langsung ke poin-poin utama dan implikasi dari data tersebut.
-

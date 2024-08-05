@@ -1,1 +1,0 @@
-Git bash mirip seperti CMD baik pada windows, linux, maupun MacOS. tetapi dia dapat dijalankan menggunakan perintah unix (linux)

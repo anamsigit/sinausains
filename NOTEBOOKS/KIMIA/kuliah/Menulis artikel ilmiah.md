@@ -1,3 +1,0 @@
-menurut pengalaman, pertama ketika akan memulai membuat karya tulis ilmiah adalah memahami secara komprehensif mengenai tema yang diambil. sehingga ketika akan memulai mengerjakan, anda menuliskan gagasan gagasan yang disusun menjadi paragraf. gagasan tersebut dibuat berdasarkan pemahaman kamu sebelumnya, barulah setelah paragraf disusun, anda mencari referensi yang mendukung gagasan kamu tersebut. 
-
-mencari kerangka paragraf dari artikel review lebih mudah dipahami, anda bisa mengambil daripadanya kemudian memperbuat gagasan penulis dengan mengambil sumber lain yang satu pendapat dengan penulis. 

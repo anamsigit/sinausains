@@ -1,3 +1,0 @@
-Histamine adalah senyawa nitrogen organik yang terlibat dalam respons imun lokal. tubuh akan mengeluarkan histamine dengan level yang tinggi secara alami pada malam hari dan juga setelah makan sehingga mengonsumsi arang aktif dimalam hari (sekitar dua jam setelah makan) akan menyapu kelebihan histamine jika tidak, gejala yang terkait dengan histamine seperti alergi akan lebih terasa. 
-
-chocolate terkenal karena efek kimianya yang meningkatkan suasana hati ke otak disampung memicu histamin. histamin juga merangsang sekresi asam lambung, melebarkan pembuluh darah, memengaruhi konstraksi otot di usus dan paru-paru serta memengaruhi detak jantung.

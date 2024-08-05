@@ -1,1 +1,0 @@
-![91bddff3638109fc19dbb23028e7d4e1.png](../../../../_resources/91bddff3638109fc19dbb23028e7d4e1.png)

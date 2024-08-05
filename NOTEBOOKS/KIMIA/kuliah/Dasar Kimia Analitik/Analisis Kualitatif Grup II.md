@@ -1,1 +1,0 @@
-Ref: [*](https://thechemistryguru.com/neet/qualitative-analysis-analysis-of-group-ii/)

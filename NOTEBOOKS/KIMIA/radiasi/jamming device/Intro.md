@@ -1,1 +1,0 @@
-A jamming device transmits on the same radio frequencies as the cell phone, disrupting the communication between the phone and the cell-phone base station in the tower. 

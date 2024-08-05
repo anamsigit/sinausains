@@ -1,3 +1,0 @@
-dalam grafik serapanan energi, serapan energi suatu nuklida direpresentasi sebagai node (titik). node yang membentuk peak artinya ada jenis nuklida tertentu yang berhasil dideteksi, oleh karena itu node-node yang membentuk peak tersebut perlu ditandai. penandaan node dapat dilakukan secara manual atau otomatis (software), biasanya dengan mengubah node menjadi bewarna merah. perlu diperhatikan bahwa penandaan node secara manual diperlukan agar analisis kuantitatif dapat akurat. dalam analisis kuantitatif, peak akan dihitung sebagai luas. 
-
-kemudian node yang membentuk peak akan diidentifikasi oleh software menggunakan database yang dimilikinya, sehingga didapatkan prediksi nuklida apa yang memancarkan energi tersebut. 

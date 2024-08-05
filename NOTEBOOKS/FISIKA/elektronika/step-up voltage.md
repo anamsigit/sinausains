@@ -1,1 +1,0 @@
-jika LED membutuhkan 10 miliamp, maka melewati transistor, ia akan membutuhkan 100 kali lebih rendah, melewati transistor lagi, ia akan membutuhkan 100 kali lebih rendah, melewati transistor lagi, ia akan membtuhukan 100 kali lebih rendah. ini adalah salah satu cara kerja step-up voltage di youtube. 

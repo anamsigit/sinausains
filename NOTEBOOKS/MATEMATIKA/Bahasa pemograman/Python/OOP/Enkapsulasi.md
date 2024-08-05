@@ -1,3 +1,0 @@
-Sebuah objek harus menyembunyikan detail implementasinya dari dunia luar, dan hanya mengekspos cara berinteraksi dengan objek tersebut.
-
-Analoginya yang sering digunakan untuk menjelaskan enkapsulasi adalah sebuah mobil. Ketika Anda mengemudi mobil, Anda tidak perlu tahu bagaimana mesin mobil bekerja di dalamnya. Yang Anda perlukan adalah kemampuan untuk mengoperasikan kontrol seperti pedal gas, rem, dan kemudi. 

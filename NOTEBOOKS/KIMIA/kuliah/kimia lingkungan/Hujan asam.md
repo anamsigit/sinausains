@@ -1,1 +1,0 @@
-memiliki pH 5,6 dan relatif stabil karena terjadi kesetimbangan antara yang dikandung di udara dan di air. marmer akan cepat rusak apabila terkana hujan asam. 

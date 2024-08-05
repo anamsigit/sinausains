@@ -1,1 +1,0 @@
-Penerapan surface plasmon resonance pada fiber optik dimaksudkan untuk penggunaan praktis sensor surface plasmon resonance. 

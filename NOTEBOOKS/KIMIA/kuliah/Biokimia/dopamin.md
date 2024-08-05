@@ -1,1 +1,0 @@
-dopamine adalah neuromodulator. protein MAO-B memecah beberapa senyaw kimia di otak, termasuk dopamine, so MAO-B inhibitor makes more dopamine available to the brain. sedangkan MAO-A menyediakan serotine di otak. 

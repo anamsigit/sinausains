@@ -1,1 +1,0 @@
-A data analyst creates a file that lists people who donated to their organization’s fund drive. An effective name for the file is FundDriveDonors_20210216_V01. is **True**

@@ -1,1 +1,0 @@
-perbedaan antara script dan program adalah biasanya script lebih simple dan pendek. python tidak direkomendasikan untuk 1) pemograman spesifik OS; 2) server side; 3) bahasa OOP murni. the program that reads and executes Python code by translating it to computer instructions called Interpreter. 

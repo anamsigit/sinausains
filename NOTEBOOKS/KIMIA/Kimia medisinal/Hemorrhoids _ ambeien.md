@@ -1,1 +1,0 @@
-terbagi menjadi dua yaitu luar dan dalam. itu terjadi ketika pembuluh darah vena mengalami pelebaran. terjadi karena tekanan berlebih dalam area anus. 

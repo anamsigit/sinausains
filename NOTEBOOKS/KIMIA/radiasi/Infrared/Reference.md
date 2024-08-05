@@ -1,1 +1,0 @@
-Video yang menunjukkan bagaimana infrared bekerja dengan prinsip yang sangat dasar [*](https://www.youtube.com/shorts/ek-oMhYNWJM)

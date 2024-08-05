@@ -1,1 +1,0 @@
-absen dirasa akan dihitung secara otomatis oleh sistem di belakang panggung

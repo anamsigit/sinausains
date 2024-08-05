@@ -1,1 +1,0 @@
-Teknologi film tipis digunakan dalam fabrikasi untuk menghasiklan sensor yang stabil, presisi dan akurat.

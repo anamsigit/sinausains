@@ -1,5 +1,0 @@
-1. Critical limit (Lc)
-2. Upper limit (Lu)
-3. Detection limit (Ld)
-4. Determination limit (Lq)
-5. Minimum detecable activity (MDA)

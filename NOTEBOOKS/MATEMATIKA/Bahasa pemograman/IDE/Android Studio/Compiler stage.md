@@ -1,1 +1,0 @@
-ada tahap debug dan release, apabila release perlu tanda tangan dan lain sebagainya. tetapi cukup sampai debug sudah bisa diinstall di aplikasi android. 

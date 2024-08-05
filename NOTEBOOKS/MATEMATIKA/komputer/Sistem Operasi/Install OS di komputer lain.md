@@ -1,1 +1,0 @@
-jika anda menginstall OS di operasi lain kemudian anda mencoba memindahkan ke laptop lain, kemungkinan itu akan menimbulkan permasalahan, pertama sistem operasi tidak akan bertemu dengan driver yang cocok, konfigurasi yang salah seperti wifi atau lain sebagainya. 

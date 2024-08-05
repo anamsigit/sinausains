@@ -1,2 +1,0 @@
-Presiden republik indonesia mengatakan bahwa kedepanya, bahasa pemograman (coding) akan lebih penting daripada bahasa inggris
-![1eaf08546f2f1dd2411baa462de1af37.png](../../../../_resources/1eaf08546f2f1dd2411baa462de1af37.png)

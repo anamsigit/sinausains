@@ -1,1 +1,0 @@
-Salah satu aplikasi yang dapat dipakai adalah ansys optics yang menggunakan FDTD

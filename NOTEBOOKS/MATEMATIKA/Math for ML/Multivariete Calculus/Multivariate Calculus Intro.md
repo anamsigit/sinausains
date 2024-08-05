@@ -1,7 +1,0 @@
-Kalkulus multivariat, adalah cabang kalkulus yang melibatkan fungsi dan variabel dengan lebih dari satu dimensi. Ini berbeda dengan kalkulus biasa, yang hanya melibatkan fungsi dan variabel dengan satu dimensi.
-
-Dalam kalkulus multivariat, kita bekerja dengan fungsi-fungsi yang melibatkan lebih dari satu variabel. Contohnya, **fungsi dua variabel seperti f(x,y) = x^2 + y^2 atau fungsi tiga variabel seperti f(x,y,z) = x^2 + y^2 + z^2**. Dalam kalkulus multivariat, kita dapat menghitung turunan parsial, integral berganda, dan gradien, yang semuanya berhubungan dengan konsep perubahan dan laju perubahan pada fungsi-fungsi multivariat.
-
-**Turunan parsial** adalah turunan dari fungsi multivariat terhadap salah satu variabel, sementara variabel lainnya dianggap konstan. Integral berganda melibatkan menghitung integral dari fungsi multivariat di atas domain 2D atau 3D, dan gradien adalah vektor yang menunjukkan arah di mana fungsi multivariat bertambah cepat dengan paling cepat diarahkan pada nilai maksimum. Konsep-konsep ini sangat penting dalam berbagai bidang, termasuk fisika, ekonomi, dan ilmu teknik.
-
-Dalam kalkulus multivariat, kita juga mempelajari konsep-konsep seperti persamaan garis dan bidang, turunan vektor, dan **laplace transform**. Kalkulus multivariat memungkinkan kita untuk memahami perubahan dan pergerakan di ruang tiga dimensi, yang sangat penting dalam berbagai bidang seperti desain mesin, **ilmu material, dan pemodelan fisika.**

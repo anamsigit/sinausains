@@ -1,1 +1,0 @@
-semakin kecil nilai Root Mean Square Deviation maka semakin bagus struktur molekul yang dimodelkan. dengan RMSD tidak bisa bernilai negatif. 

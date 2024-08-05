@@ -1,3 +1,0 @@
-saat melakukan ROI harus berhati-hati karena ROI ini akan mempengaruhi hasil dari net area (luas lebar puncak). untuk mensiasatinya nilai ROI pada data 1 bisa disamakan dengan nilai ROI pada data 2 dan seterusnya. sehingga ada keseragaman. 
-
-FWHM spektrometri gamma BRIN Yogyakarta nilainya adalah 2,2. nilai tersebut digolongkan masih berkualitas atau memiliki resolusi tinggi, ketika ada selisih lebih dari 5, maka instrument tersebut digolongkan tidak baik. 

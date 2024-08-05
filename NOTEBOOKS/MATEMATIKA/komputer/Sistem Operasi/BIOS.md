@@ -1,1 +1,0 @@
-Legacy vs UEFI. UEFI adalah model terbaru dari legacy yang lebih aman (secure). beberapa motherboard berencana untuk menghapus Legacy dan menyisakan UEFI saja. sayangnya sistem operasi yang lama mungkin saja tidak kompatibel dengan UEFI bahkan ketika anda mencoba install ubuntu di BIOS Legacy akan sudah berbeda interfacenya di BIOS UEFI. 

@@ -1,2 +1,0 @@
-Analisis Mengenai Dampak Lingkungan Hidup yang selanjutnya disebut AMDAL adalah kajian mengenai dampak penting suatu Usaha dan/atau Kegiatan yang direncanakan pada lingkungan hidup yang perlukan bagi proses pengambilan keputusan tentang penyelenggara Usaha dan/atau Kegiatan. Jika industri skala kecil biasa disebut dengan UPL. 
-misalnya pembangunan hotel di suatu pedesaan, hotel tersebut berencana mengambil dari dari sumur padahal masyarakat sekitar sendiri kekurangan air sumur, sehingga diperlukan solusi. 

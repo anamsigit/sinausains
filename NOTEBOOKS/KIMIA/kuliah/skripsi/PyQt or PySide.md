@@ -1,1 +1,0 @@
-Best for commercial, multimedia, scientific or engineering desktop applications.

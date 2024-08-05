@@ -1,9 +1,0 @@
-- Akbar Satrio Gumelar, Pendidikan Teknik Mekatronika, 2022
-- Ikhsan Rasyid Arianto, Pendidikan Teknik Mekatronika, 2021
-- Karomatun Nissa, Fisika, 2021
-- **Sofie Aulia Salsabilla, Teknik Elektro, 2021**
-- **Robiul awal, Matematika, 2020**
-- **Eliana Diah Puspita Arum, Fisika, 2022**
-- **Zahra maharani, Pendidikan Teknik Mekatronika 2021**
-- **Sigit Khoirul Anam, Kimia, 2020**
-- Amel pendidikan matematika

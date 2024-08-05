@@ -1,5 +1,0 @@
-salah satu permasalahan para petani adalah maraknya hama tikus, pembasmian yang susah karena mereka beraktivitas pada malam hari serta dapat berkembang biak dengan cepat pada berbagai kondisi. 
-
-salah satu upaya dalam menanggulangi hal tersebut adalah dengan memanfaatkan gelombang ultrasonik untuk mengusir tikus dengan dalih gelombang tersebut dapat mengganggu indra pendengaran tikus. tetapi beberapa pendapat mengemukakan bahwa gelombang tersebut rentang terhalang oleh objek sekitar
-
-kami mengusulkan metode lain untuk mengatasi permasalah tersebut, alih alih mengusir, kami akan mencoba mengumpulkan tikus untuk masuk sebuah perangkap. idenya adalah mensintesis bau disukai tikus yang dikarakterisasi dengan pembelajaran mesin. tikus memiliki indra penciuman yang sangat baik, lebih baik dari manusia, kelebihan tersebut akan kami coba manfaatkan untuk menjebak tikus.

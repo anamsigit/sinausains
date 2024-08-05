@@ -1,3 +1,0 @@
-Surface plasmon polaritons (SPPs) are electromagnetic excitations existing at the interface between a metal and a dielectric material [Surface plasmon polaritons: Physics and applications].
-
-SPPs bukanlah hal yang sama dengan SPR, meskipun keduanya melibatkan osilasi elektron dan interaksi dengan gelombang elektromagnetik. SPR adalah istilah yang lebih umum yang mencakup resonansi pada permukaan logam, sedangkan SPPs secara spesifik merujuk pada gelombang yang merambat sepanjang antarmuka logam-dielektrik. LSPR, di sisi lain, merujuk pada resonansi yang terjadi pada nanopartikel logam.

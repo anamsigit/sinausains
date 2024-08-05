@@ -1,2 +1,0 @@
-![749983c47dd133f330771a8a962bf891.png](../../../../_resources/749983c47dd133f330771a8a962bf891.png)
-The peak at low voltage (called the backscatter peak) arises when gamma pjotons first strike the metal shield and then compton scatter back into the scintillator at reduced energy. 

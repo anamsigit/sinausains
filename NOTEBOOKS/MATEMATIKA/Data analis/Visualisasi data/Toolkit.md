@@ -1,1 +1,0 @@
-Tableau Public: Layanan gratis yang memungkinkan siapa saja dapat mempublikasikan visualisasi data ke dalam web. selain tableau public yang paling populer adalah microsoft excel dan google sheet. 

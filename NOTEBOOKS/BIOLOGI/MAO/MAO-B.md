@@ -1,1 +1,0 @@
-MAO-B, jenis lain dari MAO-A, menunjukkan ekspresi yang tinggi pada jaringan kanker dibandingkan dengan jaringan normal

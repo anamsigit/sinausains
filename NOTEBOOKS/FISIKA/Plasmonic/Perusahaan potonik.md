@@ -1,1 +1,0 @@
-Avantes dan OceanOptics adalah dua perusahaan bidang potonik, OceanOptics cenderung lebih populer. Mereka dikenal karena menyediakan berbagai solusi spektroskopi untuk berbagai aplikasi, termasuk spektrometri serat optik, sensor deteksi, dan perangkat lunak analisis data.

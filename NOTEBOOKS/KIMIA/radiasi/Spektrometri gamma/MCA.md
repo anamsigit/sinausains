@@ -1,1 +1,0 @@
-A pulse height analyzer is an instrument used to analyze the frequency distribution of the spectrum. A PHA is a specific modification to multichannel analyzers (MCA) 

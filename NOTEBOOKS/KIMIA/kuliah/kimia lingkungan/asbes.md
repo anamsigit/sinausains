@@ -1,2 +1,0 @@
-Serat asbes sangat stabil dan tidak dapat bergabung satu sama lain membentuk partikel yang lebih besar. Oleh karena itu asbes dapat kembali melayang-layang di udara meskipun sebelumnya telah
-diendapkan oleh air hujan.

@@ -1,6 +1,0 @@
-- glukosa yang dihasilkan dlam tumbuhan ketika disimpan harus diubah menjadi polisakarida, karena jika masih dalam bentuk glukosa akan agar **dapat dengan mudah diubah kembali menjadi glukosa saat tumbuhan membutuhkan energi**
-- pembentukan energi hanya terjadi pada sel **mitokondria**
-- zat yang keluar dari proses katabolisme adalah zat dalam bentuk ... sedangkan zat yang masuk dalam proses katabolisme adalah zat dalam bentuk ...
-- bagian dari struktur ATP yang menyimpan dan menghasilkan energi adalah gugus fosfat
-- senyawa fosfat yang berperan sebagai cadangan energi dalam sel otot adalah (sebutkan dua!)
-- suatu senyawa digolongkan senyawa fosfat berenergi tinggi jika ketika dihidrolisis menghasilkan? dan memiliki harga delta G?
